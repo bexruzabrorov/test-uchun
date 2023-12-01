@@ -1,0 +1,162 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.cardwrapper {
+    width: 1140px;
+    margin: auto;
+    margin: 1px solid red;
+}
+
+.cardwrapper .card {
+    width: 30%;
+    border: 1px solid black;
+    background-color: rgba(0, 0, 0, 0, 050);
+    border-radius: 60px 10px 10px 0px;
+    margin-top: 50px;
+    display: inline-block;
+}
+
+.cardwrapper .card .cardimg img {
+    width: 100%;
+    height: 300px;
+    border-radius: 60px 10px 60px 0px;
+}
+
+.cardwrapper .card .cardtext {
+    padding: 10px;
+    margin: 15px;
+}
+
+.cardwrapper .card .cardtext .cardtitle {
+    margin-bottom: 20px 0px;
+
+}
+
+.cardwrapper .card .cardtitle .title {
+    display: inline-block;
+}
+
+.cardwrapper .card .cardtitle .title-btn {
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    background-color: rgba(255, 111, 0, 0.954);
+    border: 1px solid rgba(255, 111, 0, 0.954);
+}
+
+.starone {
+    color: gold;
+}
+
+.startwo {
+    color: gray;
+}
+
+.cardwrapper .card .cardtitle .right {
+    float: right;
+}
+
+body header nav {
+    box-shadow: 0px 0px 10px 0px;
+}
+
+body header nav ul li img {
+    width: 40px;
+    margin: 10px;
+}
+
+body header nav ul .one a {
+    font-size: 30px;
+}
+
+body header nav ul .one {
+    padding: 0px;
+}
+
+body header nav ul .two {
+    float: right;
+    margin: 8.5px;
+    padding: 10px;
+}
+
+body header nav ul .two-two {
+    border-radius: 5px;
+    padding: 10px;
+    color: white;
+    border: 1px solid rgba(255, 111, 0, 0.954);
+    background-color: rgba(255, 111, 0, 0.954);
+}
+
+body header nav ul li {
+    display: inline-block;
+    padding: 10px;
+}
+
+.cardikki img {
+    width: 590px;
+
+}
+
+.cardbir {
+    width: 590px;
+    display: inline-block;
+    padding: 10px;
+}
+
+.cardikki {
+    display: inline-block;
+    width: 590px;
+    padding: 10px;
+}
+
+.Older-Now {
+    padding: 15px;
+    background-color: rgba(255, 111, 0, 0.954);
+    border-radius: 10px;
+    border: 1px solid rgba(255, 111, 0, 0.954);
+    color: white;
+}
+
+.Food-Details {
+
+    padding: 15px;
+    background: none;
+    border-radius: 10px;
+    border: 1px solid gray;
+    color: rgba(255, 111, 0, 0.954);
+}
+
+.carduchunbir-bir {
+    display: inline-block;
+    margin: 10px;
+}
+
+.carduchunbir-ikki {
+    display: inline-block;
+    margin: 10px;
+}
+
+.carduchunbir-uch {
+    display: inline-block;
+    margin: 10px;
+}
+
+.carduchunbir .bir--bir {
+    color: gold;
+}
+
+.carduchunbir-bir img {
+    width: 44.95;
+}
+.Learn-More{
+    padding: 15px;
+    background: none;
+    border-radius: 10px;
+    border: 1px solid gray;
+    color: rgba(255, 111, 0, 0.954); 
+    margin: 20px;
+}
